@@ -45,3 +45,5 @@ gem 'simple_form'
 gem 'devise', git: 'https://github.com/plataformatec/devise'
 
 gem 'execjs'
+
+gem 'font-awesome-rails'
