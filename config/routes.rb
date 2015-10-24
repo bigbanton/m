@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  
+
+  devise_for :users
+  devise_for :views
+  devise_for :installs
   root 'pages#home'
 
   # The priority is based upon order of creation: first created -> highest priority.
