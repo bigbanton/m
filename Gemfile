@@ -49,3 +49,5 @@ gem 'execjs'
 gem 'font-awesome-rails'
 
 gem 'byebug'
+
+gem 'gravatarify', '~> 3.0.0'
